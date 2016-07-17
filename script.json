@@ -3,7 +3,7 @@
     "HELLO": "Hey, I'm so glad you set CristelleBot up! Do you want to tell Cristelle that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Cristelle so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Cristelle](http://bit.ly/cristellebot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "WHAT KIND OF JOB IS CRISTELLE LOOKING FOR"
+    "JOB": "She's looking for a position of HRBP or HR Manager in an international environment.",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, CristelleBot is back."
 }
