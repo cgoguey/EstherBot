@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Cristelle, an HR Manager from Paris.\n!(https://github.com/cgoguey/EstherBot/blob/master/img/cristelle.jpg?raw=true)",
+    "BOT": "Hi there!\nI’m the personal bot of Cristelle, an HR Manager from Paris.\n!",
     "HELLO": "Hey, I'm so glad you set CristelleBot up! Do you want to tell Cristelle that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Cristelle so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Cristelle](http://bit.ly/cristellebot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
